@@ -1,0 +1,2 @@
+# STAT-3280-HW2-Solved
+STAT 3280 HW2 Solved
